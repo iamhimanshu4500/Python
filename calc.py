@@ -56,4 +56,3 @@ for button in buttons:
 root.mainloop()
 # Run the application
 # Run the application
-# Run the application
