@@ -54,7 +54,8 @@ for button in buttons:
 
 # Run the application
 root.mainloop()
-# Run the application
+# RUnthe app
+## Run the application
 # Run the application
 # Run the application
 # Run the application
